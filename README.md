@@ -35,8 +35,12 @@ This project is an intelligent AI/ML-powered application that allows users to up
 2. **Model analyzes fabric type** and patterns using a trained CNN
 3. **Designs are recommended** based on the recognized fabric features using ML classifiers or similarity algorithms
 4. Optionally, **logistics integration** handles the delivery of the cloth to a tailor and back to the customer
+   
+![TailorAI Screenshot](https://github.com/Sakshii15/TailorAI/blob/main/images/Screenshot%202025-04-20%20192006.png)
+![TailorAI Dark](https://github.com/Sakshii15/TailorAI/blob/main/images/Screenshot%202025-04-20%20192244.png)
 
 ---
+
 
 ## 📂 Project Structure
 
